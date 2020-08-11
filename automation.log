@@ -1,0 +1,54 @@
+08/06/2020 01:24:55 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+08/06/2020 01:24:56 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+08/06/2020 01:24:59 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+08/06/2020 01:24:59 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/06/2020 01:25:02 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+08/06/2020 01:25:02 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/06/2020 01:25:03 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+08/06/2020 01:25:03 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+08/06/2020 01:25:05 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+08/06/2020 01:25:05 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+08/06/2020 01:25:05 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+08/06/2020 01:25:05 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+08/06/2020 01:25:05 PM - LoginPage - ERROR: Failed to get page title
+08/06/2020 01:25:05 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verification
+08/06/2020 01:25:05 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+08/06/2020 01:25:05 PM - LoginPage - INFO: Element not present with locator: //*[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+08/06/2020 01:25:05 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+08/06/2020 01:25:05 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+08/06/2020 01:25:05 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+08/06/2020 01:26:18 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+08/06/2020 01:26:18 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+08/06/2020 01:26:21 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+08/06/2020 01:26:21 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/06/2020 01:26:24 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+08/06/2020 01:26:24 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/06/2020 01:26:27 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+08/06/2020 01:26:27 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+08/06/2020 01:26:30 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/06/2020 01:26:30 PM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+08/06/2020 01:26:33 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+08/06/2020 01:26:33 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+08/06/2020 01:26:36 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+08/06/2020 01:26:36 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/06/2020 01:26:39 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+08/06/2020 01:26:39 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/06/2020 01:26:42 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+08/06/2020 01:26:42 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+08/06/2020 01:26:43 PM - Util - INFO: Actual Text From Application Web UI --> :: Attention Required! | Cloudflare
+08/06/2020 01:26:43 PM - Util - INFO: Expected Text From Application Web UI --> :: Google
+08/06/2020 01:26:43 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+08/06/2020 01:26:43 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verification
+08/06/2020 01:26:43 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Federico Barderi\workspace_python\letskodeit\base\../screenshots/Title Verification.1596731203014.png
+08/06/2020 01:26:46 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+08/06/2020 01:26:46 PM - LoginPage - INFO: Element not present with locator: //*[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+08/06/2020 01:26:46 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+08/06/2020 01:26:46 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Federico Barderi\workspace_python\letskodeit\base\../screenshots/Login Verification.1596731206385.png
+08/06/2020 01:26:46 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
